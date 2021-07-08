@@ -3,7 +3,7 @@
 
 Sarah Nakashima\
 Office Hours: By Appointment\
-Email: sarahan@hawaii.edu     
+Email:      
 
 ## Course Overview
 <br/>
@@ -32,8 +32,8 @@ Library Profile *Week 4, Week 14*
 Midterm *Week 8*   
 Course Final *Weeks 15 & 16*
 
-<br/>
-![puppy](https://s3.amazonaws.com/s3.pupcity.com/_old/09266220003068_1.jpg)
+![](https://www.insidedogsworld.com/wp-content/uploads/2016/04/maxresdefault-1-1000x600.jpg)  
+
 
 <br/>
 
